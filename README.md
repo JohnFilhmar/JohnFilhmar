@@ -290,20 +290,20 @@ An offline-first quiz app for classroom and board exam revision, where AI review
 ## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="26"/> By the Numbers
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JohnFilhmar&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&bg_color=0D1117&rank_icon=github&cache_seconds=86400" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnFilhmar&layout=compact&langs_count=8&hide_border=true&title_color=00D9FF&text_color=C9D1D9&bg_color=0D1117&cache_seconds=86400" alt="langs"/>
+  <img src="https://raw.githubusercontent.com/JohnFilhmar/JohnFilhmar/metrics/overview.svg" width="46%" alt="overview"/>
+  <img src="https://raw.githubusercontent.com/JohnFilhmar/JohnFilhmar/metrics/languages.svg" width="46%" alt="languages"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=JohnFilhmar&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF7B72&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="streak"/>
+  <img src="https://streak-stats.demolab.com?user=JohnFilhmar&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF7B72&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&card_width=495" alt="streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JohnFilhmar&bg_color=0D1117&color=C9D1D9&line=00D9FF&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true" width="1000" alt="activity"/>
+  <img src="https://raw.githubusercontent.com/JohnFilhmar/JohnFilhmar/metrics/calendar.svg" width="1000" alt="contribution calendar"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JohnFilhmar&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" width="1000" alt="trophies"/>
+  <img src="https://raw.githubusercontent.com/JohnFilhmar/JohnFilhmar/metrics/achievements.svg" width="1000" alt="achievements"/>
 </div>
 
 ---

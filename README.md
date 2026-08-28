@@ -290,9 +290,18 @@ An offline-first quiz app for classroom and board exam revision, where AI review
 ## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="26"/> By the Numbers
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JohnFilhmar/JohnFilhmar/metrics/overview.svg" width="46%" alt="overview"/>
-  <img src="https://raw.githubusercontent.com/JohnFilhmar/JohnFilhmar/metrics/languages.svg" width="46%" alt="languages"/>
+  <img src="https://raw.githubusercontent.com/JohnFilhmar/JohnFilhmar/metrics/overview.svg" width="52%" alt="overview"/>
 </div>
+
+<!--
+  Languages + achievements cards need a Personal Access Token.
+  Add a classic PAT with scopes: repo, read:user  as repo secret METRICS_TOKEN,
+  re-run the "Generate Profile Metrics" workflow, then uncomment the two
+  <img> tags below. The workflow already prefers METRICS_TOKEN automatically.
+
+  <img src="https://raw.githubusercontent.com/JohnFilhmar/JohnFilhmar/metrics/languages.svg" width="46%" alt="languages"/>
+  <img src="https://raw.githubusercontent.com/JohnFilhmar/JohnFilhmar/metrics/achievements.svg" width="1000" alt="achievements"/>
+-->
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=JohnFilhmar&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF7B72&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&card_width=495" alt="streak"/>
@@ -300,10 +309,6 @@ An offline-first quiz app for classroom and board exam revision, where AI review
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/JohnFilhmar/JohnFilhmar/metrics/calendar.svg" width="1000" alt="contribution calendar"/>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/JohnFilhmar/JohnFilhmar/metrics/achievements.svg" width="1000" alt="achievements"/>
 </div>
 
 ---

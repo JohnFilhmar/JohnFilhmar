@@ -50,22 +50,6 @@ jobs:
           plugin_languages_sections: most-used
           use_prebuilt_image: yes
 
-      - name: Isometric calendar
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
-          user: JohnFilhmar
-          filename: calendar.svg
-          committer_branch: metrics
-          committer_message: "chore: update calendar metrics"
-          template: classic
-          base: ""
-          config_timezone: Asia/Manila
-          config_display: large
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          use_prebuilt_image: yes
-
       - name: Achievements
         uses: lowlighter/metrics@latest
         with:

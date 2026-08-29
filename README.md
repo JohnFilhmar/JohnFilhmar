@@ -22,11 +22,19 @@
   <img src="https://komarev.com/ghpvc/?username=JohnFilhmar&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="views"/>
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JohnFilhmar/JohnFilhmar/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JohnFilhmar/JohnFilhmar/output/github-snake.svg"/>
+    <img alt="snake animation" src="https://raw.githubusercontent.com/JohnFilhmar/JohnFilhmar/output/github-snake.svg"/>
+  </picture>
+</div>
+
 <br/>
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"/> whoami
+## whoami
 
 ```yaml
 $ whoami --verbose
@@ -65,119 +73,96 @@ philosophy: "Own it from first commit to the 2am incident."
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="26"/> Arsenal
+## Arsenal
 
-<details open>
-<summary><b>&nbsp;Languages</b></summary>
-<br/>
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,go,cs,java,cpp,php,bash&theme=dark" alt="languages"/>
-</p>
-</details>
-
-<details open>
-<summary><b>&nbsp;Frontend &amp; Mobile</b></summary>
-<br/>
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css&theme=dark" alt="frontend"/>
+<table>
+<tr>
+<td valign="middle"><b>Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=ts,js,python,go,cs,java,cpp,php,bash&theme=dark" alt="languages"/></td>
+</tr>
+<tr>
+<td valign="middle"><b>Frontend and Mobile</b></td>
+<td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css&theme=dark" alt="frontend"/>
   <img src="https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="rn"/>
   <img src="https://img.shields.io/badge/Expo-0D1117?style=for-the-badge&logo=expo&logoColor=ffffff" alt="expo"/>
-  <img src="https://img.shields.io/badge/TanStack_Query-0D1117?style=for-the-badge&logo=reactquery&logoColor=FF4154" alt="tanstack"/>
-</p>
-</details>
-
-<details open>
-<summary><b>&nbsp;Backend &amp; Messaging</b></summary>
-<br/>
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql&theme=dark" alt="backend"/>
+  <img src="https://img.shields.io/badge/TanStack_Query-0D1117?style=for-the-badge&logo=reactquery&logoColor=FF4154" alt="tanstack"/></td>
+</tr>
+<tr>
+<td valign="middle"><b>Backend and Messaging</b></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql&theme=dark" alt="backend"/>
   <img src="https://img.shields.io/badge/gRPC-0D1117?style=for-the-badge&logo=trpc&logoColor=00D9FF" alt="grpc"/>
   <img src="https://img.shields.io/badge/RabbitMQ-0D1117?style=for-the-badge&logo=rabbitmq&logoColor=FF6600" alt="rabbit"/>
-  <img src="https://img.shields.io/badge/Socket.IO-0D1117?style=for-the-badge&logo=socketdotio&logoColor=ffffff" alt="socketio"/>
-</p>
-</details>
-
-<details open>
-<summary><b>&nbsp;Data &amp; Storage</b></summary>
-<br/>
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,prisma&theme=dark" alt="data"/>
-  <img src="https://img.shields.io/badge/MinIO-0D1117?style=for-the-badge&logo=minio&logoColor=C72E49" alt="minio"/>
-</p>
-</details>
-
-<details open>
-<summary><b>&nbsp;DevOps, Infra &amp; Observability</b></summary>
-<br/>
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,nginx,grafana,prometheus&theme=dark" alt="devops"/>
+  <img src="https://img.shields.io/badge/Socket.IO-0D1117?style=for-the-badge&logo=socketdotio&logoColor=ffffff" alt="socketio"/></td>
+</tr>
+<tr>
+<td valign="middle"><b>Data and Storage</b></td>
+<td><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,prisma&theme=dark" alt="data"/>
+  <img src="https://img.shields.io/badge/MinIO-0D1117?style=for-the-badge&logo=minio&logoColor=C72E49" alt="minio"/></td>
+</tr>
+<tr>
+<td valign="middle"><b>DevOps, Infra and Observability</b></td>
+<td><img src="https://skillicons.dev/icons?i=docker,githubactions,linux,nginx,grafana,prometheus&theme=dark" alt="devops"/>
   <img src="https://img.shields.io/badge/Traefik-0D1117?style=for-the-badge&logo=traefikproxy&logoColor=24A1C1" alt="traefik"/>
-  <img src="https://img.shields.io/badge/Loki-0D1117?style=for-the-badge&logo=grafana&logoColor=F46800" alt="loki"/>
-</p>
-</details>
-
-<details open>
-<summary><b>&nbsp;Security Engineering</b></summary>
-<br/>
-<p>
-  <img src="https://img.shields.io/badge/Semgrep-0D1117?style=for-the-badge&logo=semgrep&logoColor=32CD32" alt="semgrep"/>
+  <img src="https://img.shields.io/badge/Loki-0D1117?style=for-the-badge&logo=grafana&logoColor=F46800" alt="loki"/></td>
+</tr>
+<tr>
+<td valign="middle"><b>Security Engineering</b></td>
+<td><img src="https://img.shields.io/badge/Semgrep-0D1117?style=for-the-badge&logo=semgrep&logoColor=32CD32" alt="semgrep"/>
   <img src="https://img.shields.io/badge/CodeQL-0D1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="codeql"/>
   <img src="https://img.shields.io/badge/Trivy-0D1117?style=for-the-badge&logo=aqua&logoColor=1904DA" alt="trivy"/>
   <img src="https://img.shields.io/badge/Snyk-0D1117?style=for-the-badge&logo=snyk&logoColor=4C4A73" alt="snyk"/>
   <img src="https://img.shields.io/badge/gitleaks-0D1117?style=for-the-badge&logo=gitpod&logoColor=FF7B72" alt="gitleaks"/>
-  <img src="https://img.shields.io/badge/cosign-0D1117?style=for-the-badge&logo=sigstore&logoColor=00D9FF" alt="cosign"/>
-</p>
-</details>
+  <img src="https://img.shields.io/badge/cosign-0D1117?style=for-the-badge&logo=sigstore&logoColor=00D9FF" alt="cosign"/></td>
+</tr>
+</table>
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="26"/> Shipped &amp; Running
+## Shipped and running
 
 <div align="center">
-  <h3>🏢 &nbsp;At YouCode Technologies Corporation</h3>
-  <sub><i>Employer owned. Described at product level only.</i></sub>
+  <h3>At YouCode Technologies Corporation</h3>
+  <sub><i>Employer owned, described at product level only. Sole developer on all four.</i></sub>
 </div>
 
 <table>
 <tr>
-<td width="25%" valign="top" align="center">
+<td width="50%" valign="top" align="center">
 
 ### 💬 Usapp
 [![live](https://img.shields.io/badge/LIVE-iOS_+_Android-00D9FF?style=flat-square&labelColor=0D1117)](https://usapp.ph)
 
 A private, end-to-end encrypted messaging app for the Philippine market, live on the App Store and Google Play.
 
-**Sole developer.**
 
 </td>
-<td width="25%" valign="top" align="center">
+<td width="50%" valign="top" align="center">
 
 ### 🏛️ Civic Super App
 [![live](https://img.shields.io/badge/LIVE-3_Cities-00D9FF?style=flat-square&labelColor=0D1117)](https://civicplatform.youcodetech.com)
 
 A white-label app letting a local government run its own branded citizen services, from transactions and issue reporting to emergency response.
 
-**Sole developer.**
 
 </td>
-<td width="25%" valign="top" align="center">
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
 
 ### 🤖 YouFlow
 [![live](https://img.shields.io/badge/LIVE-Production-00D9FF?style=flat-square&labelColor=0D1117)](https://kanban.youcodetech.com)
 
 A project tracking platform built for teams working alongside AI agents, with automated estimation and daily reporting.
 
-**Sole developer.**
 
 </td>
-<td width="25%" valign="top" align="center">
+<td width="50%" valign="top" align="center">
 
 ### 🛡️ YouGuard Bridge
 ![prod](https://img.shields.io/badge/DEPLOYED-On_Site-00D9FF?style=flat-square&labelColor=0D1117)
 
 A gateway connecting on-site access control and surveillance hardware to a cloud platform, powering daily attendance and security alerts.
 
-**Sole developer.**
 
 </td>
 </tr>
@@ -186,7 +171,7 @@ A gateway connecting on-site access control and surveillance hardware to a cloud
 <br/>
 
 <div align="center">
-  <h3>🤝 &nbsp;Independent, Client &amp; Academic Work</h3>
+  <h3>Independent, client and academic work</h3>
   <sub><i>Delivered solo since 2023.</i></sub>
 </div>
 
@@ -248,7 +233,7 @@ Multi-branch automotive service management with real-time monitoring and daily t
 <br/>
 
 <div align="center">
-  <h3>🧪 &nbsp;Side Projects</h3>
+  <h3>Side projects</h3>
   <sub><i>Built for the love of it, on my own time.</i></sub>
 </div>
 
@@ -287,10 +272,12 @@ An offline-first quiz app for classroom and board exam revision, where AI review
 
 ---
 
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="26"/> By the Numbers
+## By the numbers
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JohnFilhmar/JohnFilhmar/metrics/overview.svg" width="52%" alt="overview"/>
+  <img src="https://raw.githubusercontent.com/JohnFilhmar/JohnFilhmar/metrics/overview.svg" width="49%" alt="overview"/>
+
+  <img src="https://streak-stats.demolab.com?user=JohnFilhmar&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF7B72&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&card_width=495" alt="streak"/>
 </div>
 
 <!--
@@ -303,31 +290,11 @@ An offline-first quiz app for classroom and board exam revision, where AI review
   <img src="https://raw.githubusercontent.com/JohnFilhmar/JohnFilhmar/metrics/achievements.svg" width="1000" alt="achievements"/>
 -->
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=JohnFilhmar&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF7B72&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&card_width=495" alt="streak"/>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/JohnFilhmar/JohnFilhmar/metrics/calendar.svg" width="1000" alt="contribution calendar"/>
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="26"/> Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JohnFilhmar/JohnFilhmar/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JohnFilhmar/JohnFilhmar/output/github-snake.svg"/>
-    <img alt="snake animation" src="https://raw.githubusercontent.com/JohnFilhmar/JohnFilhmar/output/github-snake.svg"/>
-  </picture>
-</div>
-
 ---
 
 <div align="center">
 
-## 💭 Let's build something
+## Let's build something
 
 <i>Open to full-stack, platform and infrastructure roles.<br/>
 Remote-friendly across time zones. Based in the Philippines.</i>
@@ -338,8 +305,6 @@ Remote-friendly across time zones. Based in the Philippines.</i>
 <a href="mailto:olajohnfilhmar@gmail.com"><img src="https://img.shields.io/badge/Get_In_Touch-1F6FEB?style=for-the-badge&logo=minutemailer&logoColor=ffffff" alt="contact"/></a>
 
 <br/><br/>
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="0" height="0" alt=""/>
 
 </div>
 

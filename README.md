@@ -292,6 +292,39 @@ An offline-first quiz app for classroom and board exam revision, where AI review
 
 ---
 
+<details>
+<summary><b>Bug Sweeper</b> &nbsp;<sub>6x6 grid, 6 bugs loose in production. Click to play.</sub></summary>
+
+<br/>
+
+Six bugs are hiding in this deploy. Click any tile to inspect it.
+
+A number tells you how many of the eight neighbouring tiles hide a bug, so you
+can reason your way across the board the same way you would bisect a bad commit.
+Hit a bug and you have shipped it to prod. Clear all thirty safe tiles and the
+release is green.
+
+No peeking at the raw markdown. That is the honour system, and I will know.
+
+<div align="center">
+
+<table>
+<tr><td align="center"><details><summary>⬜</summary>1</details></td><td align="center"><details><summary>⬜</summary>1</details></td><td align="center"><details><summary>⬜</summary>1</details></td><td align="center"><details><summary>⬜</summary>1</details></td><td align="center"><details><summary>⬜</summary>🐛</details></td><td align="center"><details><summary>⬜</summary>1</details></td></tr>
+<tr><td align="center"><details><summary>⬜</summary>1</details></td><td align="center"><details><summary>⬜</summary>🐛</details></td><td align="center"><details><summary>⬜</summary>2</details></td><td align="center"><details><summary>⬜</summary>2</details></td><td align="center"><details><summary>⬜</summary>2</details></td><td align="center"><details><summary>⬜</summary>1</details></td></tr>
+<tr><td align="center"><details><summary>⬜</summary>2</details></td><td align="center"><details><summary>⬜</summary>2</details></td><td align="center"><details><summary>⬜</summary>2</details></td><td align="center"><details><summary>⬜</summary>🐛</details></td><td align="center"><details><summary>⬜</summary>1</details></td><td align="center"><details><summary>⬜</summary>0</details></td></tr>
+<tr><td align="center"><details><summary>⬜</summary>🐛</details></td><td align="center"><details><summary>⬜</summary>1</details></td><td align="center"><details><summary>⬜</summary>1</details></td><td align="center"><details><summary>⬜</summary>1</details></td><td align="center"><details><summary>⬜</summary>2</details></td><td align="center"><details><summary>⬜</summary>1</details></td></tr>
+<tr><td align="center"><details><summary>⬜</summary>1</details></td><td align="center"><details><summary>⬜</summary>2</details></td><td align="center"><details><summary>⬜</summary>1</details></td><td align="center"><details><summary>⬜</summary>1</details></td><td align="center"><details><summary>⬜</summary>1</details></td><td align="center"><details><summary>⬜</summary>🐛</details></td></tr>
+<tr><td align="center"><details><summary>⬜</summary>0</details></td><td align="center"><details><summary>⬜</summary>1</details></td><td align="center"><details><summary>⬜</summary>🐛</details></td><td align="center"><details><summary>⬜</summary>1</details></td><td align="center"><details><summary>⬜</summary>1</details></td><td align="center"><details><summary>⬜</summary>1</details></td></tr>
+</table>
+
+</div>
+
+<sub>Refresh the page to collapse the board and start over.</sub>
+
+</details>
+
+---
+
 <div align="center">
 
 ## Let's build something
